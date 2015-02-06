@@ -19,7 +19,7 @@ layout: default
         <ul>
             {% for recruiter in site.recruiters %}
             <li>{{recruiter.name}} - {{recruiter.email}} 
-            <blockquote>{{ post.content }}</blockquote>
+            <blockquote>{{ recruiter.content }}</blockquote>
             </li>
             {% endfor %}
             </ul>
