@@ -1,4 +1,4 @@
 ---
 name: GCS
-email: @gcsltd.com  
+email: @gcsltd.com
 ---
