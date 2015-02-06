@@ -1,6 +1,5 @@
 ---
 name: GCS
-email: @gcsltd.com
+email: anyone@gcsltd.com
 ---
-  
   

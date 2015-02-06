@@ -1,6 +1,5 @@
 ---
 name: OPUS Recruitment Solutions 
-email: @opusrs.com 
+email: anyone@opusrs.com 
 ---
-  
   
