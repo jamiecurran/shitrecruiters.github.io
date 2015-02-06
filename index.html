@@ -18,8 +18,8 @@ layout: default
         <div class="entry">
         <ul>
             {% for recruiter in site.recruiters %}
-            <li>{{recruiter.name}} - {{recruiter.email}} 
-            <blockquote>{{ recruiter.content }}</blockquote>
+            <li>{{recruiter.name}} - {{recruiter.email}}
+            <p>{{recruiter.content}}</p>
             </li>
             {% endfor %}
             </ul>
