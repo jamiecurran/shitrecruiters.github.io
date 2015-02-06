@@ -18,7 +18,9 @@ layout: default
         <div class="entry">
         <ul>
             {% for recruiter in site.recruiters %}
-            <li>{{recruiter.name}} - {{recruiter.email}} </li>
+            <li>{{recruiter.name}} - {{recruiter.email}} 
+            <blockquote>{{ post.content }}</blockquote>
+            </li>
             {% endfor %}
             </ul>
         </div>
